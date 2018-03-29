@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nimo's CV
+title: YU'CV
 pdf: true
 ---
 # Jiahua __Yu__
@@ -16,7 +16,7 @@ pdf: true
 
 ### __Si chuan university__ `2016.9 - Present`
 ```
-New York, NY
+Chengdu, China 
 ```
 - B.S. in Computer Science
 - Major GPA: __0__, Cumulative GPA: __0__
@@ -24,16 +24,16 @@ New York, NY
 
 ### __Waseda University__ `2013.9 - 2016.5`
 ```
-Carlisle, PA
+Fukuoka, JP
 ```
-- B.S. in Computer Science
+- Master. in Computer Science
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+- Machine Learning
 
 ## Publications
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
+Yujiahua\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
