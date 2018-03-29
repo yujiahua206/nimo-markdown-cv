@@ -7,9 +7,9 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="yujiahua206@gmail.com" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="yujiahua206@gmail.com" style="margin-left:0.5em">yujiahua206@gmail.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="090-8408-6789" style="margin-left:0.5em">090-8408-6789</a>
 </div>
 
 ## Education
