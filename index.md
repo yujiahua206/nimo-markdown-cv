@@ -7,22 +7,22 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="yujiahua206@gmail.com" style="margin-left:0.5em">columbia.edu/~wn2155</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
 </div>
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __Si chuan university__ `2016.9 - Present`
 ```
 New York, NY
 ```
 - B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
+- Major GPA: __0__, Cumulative GPA: __0__
 - Vision, Graphics track
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Waseda University__ `2013.9 - 2016.5`
 ```
 Carlisle, PA
 ```
