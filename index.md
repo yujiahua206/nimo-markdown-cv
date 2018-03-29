@@ -3,7 +3,7 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# Wode __Ni__
+# Jiahua __Yu__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
