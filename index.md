@@ -14,21 +14,17 @@ pdf: true
 
 ## Education
 
-### __Si chuan university__ `2016.9 - Present`
+### __Si chuan university__ `2013.9 - 2017.9`
 ```
 Chengdu, China 
 ```
-- B.S. in Computer Science
-- Major GPA: __0__, Cumulative GPA: __0__
-- Vision, Graphics track
+- B.S. in SoftWare Engineering
 
 ### __Waseda University__ `2013.9 - 2016.5`
 ```
 Fukuoka, JP
 ```
-- Master. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Machine Learning
+- Master. in Machine Engineering
 
 ## Publications
 
