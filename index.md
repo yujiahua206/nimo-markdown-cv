@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __Si chuan university__ `2013.9 - 2017.9`
+### __SiChuan University__ `2013.9 - 2017.9`
 ```
 Chengdu, China 
 ```
@@ -28,7 +28,7 @@ Fukuoka, JP
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### Fire Area Detection based on CNN network `2017.12 - 2018.3`
 _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
