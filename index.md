@@ -3,7 +3,7 @@ layout: cv
 title: YU'CV
 pdf: true
 ---
-# Jiahua __Yu__
+# Jiahua _Yu_
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -20,7 +20,7 @@ Chengdu, China
 ```
 - B.S. in SoftWare Engineering
 
-### __Waseda University__ `2013.9 - 2016.5`
+### __Waseda University__ `2016.9 - 2018.9`
 ```
 Fukuoka, JP
 ```
@@ -29,8 +29,8 @@ Fukuoka, JP
 ## Experience
 
 ### Fire Area Detection based on CNN network `2017.12 - 2018.3`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+1.Constructed a CNN network to detect the fire region on the image.
+2.
 
 ### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
 _Research Assistant_<br>
