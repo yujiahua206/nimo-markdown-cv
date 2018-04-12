@@ -26,7 +26,7 @@ Fukuoka, JP
 ```
 - Master. in Machine Learning
 
-## Experience
+## Professional Experience
 
 ### __Fire Area Detection based on CNN network__ `2017.9 - 2018.3`
 - Construct a CNN network to detect the fire area on the image.
