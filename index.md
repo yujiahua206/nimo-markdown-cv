@@ -28,26 +28,28 @@ Fukuoka, JP
 
 ## Experience
 
-### Fire Area Detection based on CNN network `2017.9 - 2018.3`
+### __Fire Area Detection based on CNN network__ `2017.9 - 2018.3`
 1.Construct a CNN network to detect the fire area on the image.
 2.Use slide window to extract sample and do classification for each region of the original image.
 3.Use cross-entropy as the loss function and implement A* algorithm on the constructed map.
 
-### Updated A* algorithm with box blur method `2017.4 - 2017.6`
+### __Updated A* algorithm with box blur method__ `2017.4 - 2017.6`
 1.Use a external weight value to respresent different terrains on the map.
 2.Update cost function f=g+h to f=g+h+w
 3.Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
 
-### Smart flowerpot based on Raspberry Pi `2016.4 - 2016.9`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Smart flowerpot based on Raspberry Pi__ `2016.4 - 2016.9`
+1.Adapted temperature sensor,humidity sensor and luminance sensor on the Raspberry and gather data from environment.
+2.Upload the data to could platform every 1 hour, and with a Android App, user can monitor these data in real time.
+3.With the Android app, user can send task to the flowerport, such as water and take pictures.
+4.Also, with the android app, we will push the gardening kownledges to the user.
 
 
-## Teaching
+## Skills
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
+__Programming languages__: Java\Python (proficiency) C\C++(basic)<br>
+__DataBase__: Mysql <br>
+__Algorithms__: A*, D*,D*lite, Bayes classifier, Decision tree, Nerual network <br>
 Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
 
 
