@@ -24,19 +24,21 @@ Chengdu, China
 ```
 Fukuoka, JP
 ```
-- Master. in Machine Engineering
+- Master. in Machine Learning
 
 ## Experience
 
-### Fire Area Detection based on CNN network `2017.12 - 2018.3`
-1.Constructed a CNN network to detect the fire region on the image.
-2.
+### Fire Area Detection based on CNN network `2017.9 - 2018.3`
+1.Construct a CNN network to detect the fire area on the image.
+2.Use slide window to extract sample and do classification for each region of the original image.
+3.Use cross-entropy as the loss function and implement A* algorithm on the constructed map.
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### Updated A* algorithm with box blur method `2017.4 - 2017.6`
+1.Use a external weight value to respresent different terrains on the map.
+2.Update cost function f=g+h to f=g+h+w
+3.Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
 
-### __AsiaInfo__ `2015.6 - 2015.8`
+### Smart flowerpot based on Raspberry Pi `2016.4 - 2016.9`
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
