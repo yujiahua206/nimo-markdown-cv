@@ -20,7 +20,7 @@ Chengdu, China
 ```
 - B.S. in SoftWare Engineering
 
-### __Waseda University__ `2016.9 - 2018.9`
+### __Waseda University__ `2016.9 - Present`
 ```
 Fukuoka, JP
 ```
