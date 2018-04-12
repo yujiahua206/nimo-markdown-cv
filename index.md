@@ -38,6 +38,12 @@ Fukuoka, JP
 2.Update cost function f=g+h to f=g+h+w
 3.Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
 
+### __Prediction of Presidential Election by Bayes classifier using GDP per cipita__  `2017.6 - 2017.9`
+1.Realized a bayse classifier by python
+2.From the election information and GDP information gather from Internet, calculate the piror probability for each state's vote.
+3.From maximum likelihood theory, calculate the posterior probability by GDP per ciptia
+4.According to the bayse formula, calculate the vote probability of each state.
+
 ### __Smart flowerpot based on Raspberry Pi__ `2016.4 - 2016.9`
 1.Adapted temperature sensor,humidity sensor and luminance sensor on the Raspberry and gather data from environment.
 2.Upload the data to could platform every 1 hour, and with a Android App, user can monitor these data in real time.
@@ -50,17 +56,11 @@ Fukuoka, JP
 __Programming languages__: Java\Python (proficiency) C\C++(basic)<br>
 __DataBase__: Mysql <br>
 __Algorithms__: A*, D*,D*lite, Bayes classifier, Decision tree, Nerual network <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
+__Languages__: English: Cet-6, Japanese: N3
 
 
 ## Honors & Awards
-
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
+Monbukagakusho honor  Scholarship for the 2015 – 2016 Academic Years
 
 <!-- ### Footer
 
