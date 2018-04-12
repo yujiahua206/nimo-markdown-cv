@@ -29,26 +29,26 @@ Fukuoka, JP
 ## Experience
 
 ### __Fire Area Detection based on CNN network__ `2017.9 - 2018.3`
-1.Construct a CNN network to detect the fire area on the image.
-2.Use slide window to extract sample and do classification for each region of the original image.
-3.Use cross-entropy as the loss function and implement A* algorithm on the constructed map.
+- Construct a CNN network to detect the fire area on the image.
+- Use slide window to extract sample and do classification for each region of the original image.
+- Use cross-entropy as the loss function and implement A* algorithm on the constructed map.
 
 ### __Updated A* algorithm with box blur method__ `2017.4 - 2017.6`
-1.Use a external weight value to respresent different terrains on the map.
-2.Update cost function f=g+h to f=g+h+w
-3.Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
+- Use a external weight value to respresent different terrains on the map.
+- Update cost function f=g+h to f=g+h+w
+- Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
 
 ### __Prediction of Presidential Election by Bayes classifier using GDP per cipita__  `2017.6 - 2017.9`
-1.Realized a bayse classifier by python
-2.From the election information and GDP information gather from Internet, calculate the piror probability for each state's vote.
-3.From maximum likelihood theory, calculate the posterior probability by GDP per ciptia
-4.According to the bayse formula, calculate the vote probability of each state.
+- Realized a bayse classifier by python
+- From the election information and GDP information gather from Internet, calculate the piror probability for each state's vote.
+- From maximum likelihood theory, calculate the posterior probability by GDP per ciptia
+- According to the bayse formula, calculate the vote probability of each state.
 
 ### __Smart flowerpot based on Raspberry Pi__ `2016.4 - 2016.9`
-1.Adapted temperature sensor,humidity sensor and luminance sensor on the Raspberry and gather data from environment.
-2.Upload the data to could platform every 1 hour, and with a Android App, user can monitor these data in real time.
-3.With the Android app, user can send task to the flowerport, such as water and take pictures.
-4.Also, with the android app, we will push the gardening kownledges to the user.
+- Adapted temperature sensor,humidity sensor and luminance sensor on the Raspberry and gather data from environment.
+- Upload the data to could platform every 1 hour, and with a Android App, user can monitor these data in real time.
+- With the Android app, user can send task to the flowerport, such as water and take pictures.
+- Also, with the android app, we will push the gardening kownledges to the user.
 
 
 ## Skills
