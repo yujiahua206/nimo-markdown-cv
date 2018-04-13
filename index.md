@@ -56,7 +56,7 @@ Fukuoka, JP
 __Programming languages__: Java\Python (proficiency) C\C++(basic)<br>
 __DataBase__: Mysql <br>
 __Algorithms__: A*, D*,D*lite, Bayes classifier, Decision tree, Nerual network <br>
-__Languages__: English: Cet-6, Japanese: N3
+__Languages__: English: Cet-6 fluent in writing and speaking, Japanese: basic
 
 
 ## Honors & Awards
