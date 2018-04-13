@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: YU'CV
+title: Yujiahua'cv
 pdf: true
 ---
 # Jiahua _Yu_
