@@ -3,7 +3,7 @@ layout: cv
 title: Yujiahua'cv
 pdf: true
 ---
-# Jiahua _Yu_
+# 余家华
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -12,54 +12,51 @@ pdf: true
 <a href="090-8408-6789" style="margin-left:0.5em">090-8408-6789</a>
 </div>
 
-## Education
+## 教育经历
 
-### __SiChuan University__ `2013.9 - 2017.9`
+### __四川大学__ `2013.9 - 2017.9`
 ```
-Chengdu, China 
+中国, 成都 
 ```
-- B.S. in SoftWare Engineering
+- 软件工程  本科
 
-### __Waseda University__ `2016.9 - Present`
+### __早稻田大学__ `2016.9 - Present`
 ```
-Fukuoka, JP
+日本, 福冈
 ```
-- Master. in Machine Learning
+- 软件工程 硕士
 
-## Professional Experience
+## 项目经历
 
-### __Fire Area Detection based on CNN network__ `2017.9 - 2018.3`
-- Construct a CNN network to detect the fire area on the image.
-- Use slide window to extract sample and do classification for each region of the original image.
-- Use cross-entropy as the loss function and implement A* algorithm on the constructed map.
+### __基于卷积神经网络的火焰检测__ `2017.9 - 2018.3`
+- 使用tensorflow构建了一个卷积神经网络用于识别图像中的火焰
+- 使用滑动窗口从原图中获取图像区域，并将其特征输入卷积神经网络中进行训练
+- 在识别完图像所有的区域后基于识别结果构建一张地图，并在地图上实现A* 寻路算法
 
-### __Updated A* algorithm with box blur method__ `2017.4 - 2017.6`
-- Use a external weight value to respresent different terrains on the map.
-- Update cost function f=g+h to f=g+h+w
-- Apply box blur method to reculate weight value for each node inside the map and simulate the algorithm on unity3D.
+### __使用图像模糊算法对A* 进行升级__ `2017.4 - 2017.6`
+- 将A* 的 fcost 计算方法更改为 f=g+h+w，其中w用于区别不同的地形
+- 在建好的地图上使用 box blur 算法重新计算每一个节点的w值
+- 使用unity3D进行算法模拟
 
-### __Prediction of Presidential Election by Bayes classifier using GDP per cipita__  `2017.6 - 2017.9`
-- Realized a bayse classifier by python
-- From the election information and GDP information gather from Internet, calculate the piror probability for each state's vote.
-- From maximum likelihood theory, calculate the posterior probability by GDP per ciptia
-- According to the bayse formula, calculate the vote probability of each state.
+### __基于人均GDP的美国大选结果预测__`2017.6 - 2017.9`
+- 使用 Python 实现了一个贝叶斯分类器
+- 使用从互联网上收集的各州人均gdp信息和历年的投票信息，计算出各州投票结果的先验概率
+- 使用极大似然估计法则，使用该州当年的人均gdp信息计算出该州投票的后验概率，并结合贝叶斯公式计算出该州投票结果的概率
 
-### __Smart flowerpot based on Raspberry Pi__ `2016.4 - 2016.9`
-- Adapted temperature sensor,humidity sensor and luminance sensor on the Raspberry and gather data from environment.
-- Upload the data to could platform every 1 hour, and with a Android App, user can monitor these data in real time.
-- With the Android app, user can send task to the flowerport, such as water and take pictures.
-- Also, with the android app, we will push the gardening kownledges to the user.
+### __基于树莓派的智能花盆__ `2016.4 - 2016.9`
+- 使用树莓派的温度和湿度传感器，每隔1小时从环境中获取数据，并上传到云端
+- 用户可以使用配套的安卓客户端实时监控环境数据，并向树莓派本地端发送拍照 、浇水等命令
+- 根据用户的植物种类，安卓端会给针对性的给用户推送园艺知识
 
 
-## Skills
+## 掌握技能
 
-__Programming languages__: Java\Python (proficiency) C\C++(basic)<br>
-__DataBase__: Mysql <br>
-__Algorithms__: A*, D*,D*lite, Bayes classifier, Decision tree, Nerual network <br>
-__Languages__: English: Cet-6 fluent in writing and speaking, Japanese: basic
+__编程语言__: Java\Python (熟练) C\C++(了解)<br>
+__算法__: A* , D* , D* lite,贝叶斯分类器,决策树,神经网络 <br>
+__语言__: 英语六级
 
 
-## Honors & Awards
+## 获奖经历
 Monbukagakusho honor  Scholarship for the 2015 – 2016 Academic Years
 
 <!-- ### Footer
