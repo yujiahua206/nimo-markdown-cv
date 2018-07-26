@@ -9,7 +9,7 @@ pdf: true
 <i class="fi-home" style="margin-left:1em"></i>
 <a href="yujiahua206@gmail.com" style="margin-left:0.5em">yujiahua206@gmail.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="090-8408-6789" style="margin-left:0.5em">090-8408-6789</a>
+<a href="090-8408-6789" style="margin-left:0.5em">13257815543</a>
 </div>
 
 ## 教育经历
@@ -28,31 +28,28 @@ pdf: true
 
 ## 项目经历
 
-### __基于卷积神经网络的火焰检测__ `2017.9 - 2018.3`
-- 使用tensorflow构建了一个卷积神经网络用于识别图像中的火焰
-- 使用滑动窗口从原图中获取图像区域，并将其特征输入卷积神经网络中进行训练
-- 在识别完图像所有的区域后基于识别结果构建一张地图，并在地图上实现A* 寻路算法
+### __图像中火焰区域的目标检测及路径规划__ `2017.9 - 2018.7`
+- 使用YOLOv3算法训练一个神经网络模型，并使用它来检测图像中的火焰区域
+- 基于检测结果在Unity3D中重建区域模型
+- 在Unity3D中实现升级版A Star寻路算法，计算一条从起点到终点的路径
 
-### __使用图像模糊算法对A* 进行升级__ `2017.4 - 2017.6`
-- 将A* 的 fcost 计算方法更改为 f=g+h+w，其中w用于区别不同的地形
-- 在建好的地图上使用 box blur 算法重新计算每一个节点的w值
-- 使用unity3D进行算法模拟
-
-### __基于人均GDP的美国大选结果预测__`2017.6 - 2017.9`
-- 使用 Python 实现了一个贝叶斯分类器
-- 使用从互联网上收集的各州人均gdp信息和历年的投票信息，计算出各州投票结果的先验概率
-- 使用极大似然估计法则，使用该州当年的人均gdp信息计算出该州投票的后验概率，并结合贝叶斯公式计算出该州投票结果的概率
+### __JAVA高性能秒杀平台__ `2017.3 - 2017.6`
+- 使用Resdis作为缓存服务器，RabbitMQ消息队列异步下单，减少数据库压力，提升并发处理性能
+- 使用图形验证码与接口限流防止刷单
+- 使用Jmeter对系统进行压力测试
 
 ### __基于树莓派的智能花盆__ `2016.4 - 2016.9`
 - 使用树莓派的温度和湿度传感器，每隔1小时从环境中获取数据，并上传到云端
 - 用户可以使用配套的安卓客户端实时监控环境数据，并向树莓派本地端发送拍照 、浇水等命令
 - 根据用户的植物种类，安卓端会给针对性的给用户推送园艺知识
 
-
+## 学术经历 Conference
+-  AROB      Improved Node based Optimal Path Planning Algorithm With Box Blur Method 
+-  ICT ROBOT Fire Area Detection based on Convolutional Neural Network and Improved A* Path Planning
 ## 掌握技能
 
 __编程语言__: Java\Python (熟练) C#\C\C++(了解)<br>
-__算法__: A* , D* , D* lite,贝叶斯分类器,决策树,神经网络 <br>
+__算法__: A* , D* , D* lite,贝叶斯分类器,决策树,YOLO目标检测 <br>
 __语言__: 英语六级
 
 
